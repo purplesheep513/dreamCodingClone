@@ -29,3 +29,7 @@ state나 lifecycle methods도 없다. 함수는 한가지 업무를 수행하는
 4. class에서 중복되는 함수를 제거할 수 있다.
 
 그러나! class컴포넌트를 가지고있는 기존의 프로젝트가 많기 때문에 class도 공부해두어야한다.
+
+
+폴더를 살펴보면 크게 public과 src로 나뉠 수 있는데
+public은 static한 소스가 들어가고 src는 동적인 소스가 들어간다.
